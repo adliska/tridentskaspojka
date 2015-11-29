@@ -1,0 +1,9 @@
+# Site settings
+title: Tridentská spojka
+email: ""
+description: "Dopisovatel z Tridentska a Jižních Tyrol"
+url: "http://tridentskaspojka.cz"
+twitter_username: tridentska
+
+# Build settings
+markdown: kramdown
