@@ -6,7 +6,7 @@ date:   2015-11-29
 
 Jsou tomu již tři roky, co jsem se vydal na kole za studiem z Čech do
 [Rovereta](https://cs.wikipedia.org/wiki/Rovereto), městečka nacházejícího
-se v překrásné [autonomní provincii 
+se v krásné [autonomní provincii 
 Tridentsko](https://cs.wikipedia.org/wiki/Autonomn%C3%AD_provincie_Trento)
 na severu Itálie. Cestou jsem si psal poznámky a fotografoval; nicméně jak
 sešit, tak fotografie již několik let čekaly na zpracování, ke kterému
