@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cesta do Rovereta, aneb z Čech do Itálie na kole I."
+title:  "Cesta do Rovereta, aneb z Čech do Itálie na kole"
 date:   2015-11-29
 ---
 

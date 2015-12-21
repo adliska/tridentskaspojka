@@ -1,10 +1,7 @@
 ---
 layout: post
-title:  "Cesta do Rovereta, aneb z Čech do Itálie na kole II."
+title:  "Do Itálie na kole, den třetí: Lenora - Pasov"
 date:   2015-12-20
----
-
-Den třetí: Lenora - Pasov
 ---
 
 Když jsem se brzy ráno v kempu za Lenorou probudil a vykročil ze stanu, překvapila 
@@ -55,7 +52,8 @@ břehu Dunaje
 Ještě, než jsem přejel Dunaj, jsem si všiml 
 ukazatele na "zeltplatz." Ten mě dovedl až k jednoduchému a příjemnému kempu na 
 pravém břehu řeky [Jilce (Ilz)](https://cs.wikipedia.org/wiki/Ilz) -- to bylo 
-kolem čtvrté hodiny --, kde jsem si postavil stan a vydal se do města.
+kolem čtvrté hodiny --, kde jsem si postavil stan a vydal se do města, vzdaleného
+necelou čtvrthodinu pěšky.
 
 Střed Pasova je poměrně malý a nachází se na výběžku u soutoku tří řek: Innu, 
 Dunaje a Jilce. Městu vévodí [dóm sv. Štepána](https://en.wikipedia.org/wiki/St._Stephen%27s_Cathedral,_Passau),
@@ -66,7 +64,6 @@ pozorovat, jak se křídově modrobílé vody Innu mísí s mnohem tmavšími vo
 [![Střed Pasova s cibulovitými báněmi dómu sv. Štěpána](/images/pasov_centrum_thumbnail.JPG)](/images/pasov_centrum.JPG)
 Střed Pasova s cibulovitými báněmi dómu sv. Štěpána.
 
-
- {:.center-image}
+{:.center-image}
 [![Portál Gymnasia Leopoldinum](/images/pasov_leopoldinum_portal_thumbnail.JPG)](/images/pasov_leopoldinum_portal.JPG)
 Portál [Gymnasia Leopoldinum](https://de.wikipedia.org/wiki/Gymnasium_Leopoldinum_(Passau))
