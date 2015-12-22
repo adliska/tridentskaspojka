@@ -39,4 +39,4 @@ raději ve městě.
 {:.center-image}
 [![](/images/braunau_am_inn_kostelni_vez_thumbnail.JPG)](/images/braunau_am_inn_kostelni_vez.JPG)
 [Kostelní věž](https://de.wikipedia.org/wiki/Stadtpfarrkirche_St._Stephan_(Braunau))
-v Braunau am Inn při západu Slunce, jedna z nejvyšších v Rakousku.
+v Braunau am Inn při západu slunce, jedna z nejvyšších v Rakousku.
