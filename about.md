@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O mně
-permalink: /o-mně/
+permalink: /o-mne/
 ---
 
 Již třetím rokem žiji v [Roveretu](https://cs.wikipedia.org/wiki/Rovereto),
