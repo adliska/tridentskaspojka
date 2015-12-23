@@ -42,13 +42,35 @@ Braunau am Inn - Mühldorf
 
 Následující den jsem v Braunau přejel na opačný břeh Innu, jelikož po následující 
 dva dny se tok Innu nacházel v německém vnitrozemí. Kousek za Braunau se do Innu
-vlévá [Salice](https://cs.wikipedia.org/wiki/Salzach), a za další chvíli 
+vlévá [Salice](https://cs.wikipedia.org/wiki/Salzach) (Salzach), a za další chvíli 
 cyklostezka projíždí rodnou obcí papeže Benedikta XVI., městečkem 
 [Marktl](https://cs.wikipedia.org/wiki/Marktl). Odsud je možné pokračovat na 
 [Altötting](https://cs.wikipedia.org/wiki/Alt%C3%B6tting) nebo si udělat malou
 odbočku do města [Burghausen](https://cs.wikipedia.org/wiki/Burghausen), kde
-se nachází údajně nejdelší hrad v Evropě. Já jsem se rozhodl pro druhou možnost.
+se nachází údajně nejdelší hrad v Evropě. Já jsem se rozhodl pro druhou možnost, a
+i když jsem do Burghausenu dorazil za deště, jeho návštěva určitě stála zato.
 
 {:.center-image}
 [![](/images/burghausen_centrum_thumbnail.JPG)](/images/burghausen_centrum.JPG)
 Pohled na hlavní náměstí Burghausenu s [kostelem sv. Jakuba](https://de.wikipedia.org/wiki/St._Jakob_(Burghausen)).
+
+Z Burghausenu jsem se poté vydal zpět směrem k Innu, ale jelikož jsem se ztratil 
+v lesích mezi Emmertingem a Neuöttingem, cestu jsem si mírně prodloužil. 
+
+{:.center-image}
+[![Altöttinská radnice](/images/altotting_radnice_thumbnail.JPG)](/images/altotting_radnice.JPG)
+Altöttinská radnice.
+
+[Kaple milosti](https://en.wikipedia.org/wiki/Shrine_of_Our_Lady_of_Alt%C3%B6tting)
+(Gnadenkapelle), nacházející se na hlavním náměstí v Altöttingu, je významné 
+mariánské poutní místo. Vnější ochoz kapličky je zaplněn votivními obrázky
+děkující Panně Marii za všeljaké zázraky. Uvnitř kapličky se nachází soška
+černé Panny Marie altöttinské.
+
+{:.center-image}
+[![Kaple milosti v Altöttingu](/images/altotting_gnadenkapelle_thumbnail.JPG)](/images/altotting_gnadenkapelle.JPG)
+Kaple milosti v Altöttingu.
+
+Mühldorf - Fischbach
+---
+
