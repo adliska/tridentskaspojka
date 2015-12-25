@@ -4,9 +4,7 @@ title:  "Do Itálie na kole: Innská cyklostezka"
 date:   2015-12-21
 ---
 
-Ti amo mio amore :)
-
-Innská cyklostezka ([německá Wikipedia](https://de.wikipedia.org/wiki/Inn-Radweg),
+    Innská cyklostezka ([německá Wikipedia](https://de.wikipedia.org/wiki/Inn-Radweg),
 [Cyklistika Krnov](http://www.cyklistikakrnov.com/Cyklotrasy/stezka-Innska.htm))
 kopíruje tok řeky [Inn](https://cs.wikipedia.org/wiki/Inn) od jejího pramene
 u průsmyku [Malojapass](https://en.wikipedia.org/wiki/Maloja_Pass) ve švýcarském
