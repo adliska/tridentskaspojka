@@ -4,6 +4,8 @@ title:  "Do Itálie na kole: Innská cyklostezka"
 date:   2015-12-21
 ---
 
+Ti amo mio amore :)
+
 Innská cyklostezka ([německá Wikipedia](https://de.wikipedia.org/wiki/Inn-Radweg),
 [Cyklistika Krnov](http://www.cyklistikakrnov.com/Cyklotrasy/stezka-Innska.htm))
 kopíruje tok řeky [Inn](https://cs.wikipedia.org/wiki/Inn) od jejího pramene
@@ -64,13 +66,55 @@ Altöttinská radnice.
 [Kaple milosti](https://en.wikipedia.org/wiki/Shrine_of_Our_Lady_of_Alt%C3%B6tting)
 (Gnadenkapelle), nacházející se na hlavním náměstí v Altöttingu, je významné 
 mariánské poutní místo. Vnější ochoz kapličky je zaplněn votivními obrázky
-děkující Panně Marii za všeljaké zázraky. Uvnitř kapličky se nachází soška
+děkující Panně Marii za všelijaké zázraky. Uvnitř kapličky se nachází soška
 černé Panny Marie altöttinské.
 
 {:.center-image}
 [![Kaple milosti v Altöttingu](/images/altotting_gnadenkapelle_thumbnail.JPG)](/images/altotting_gnadenkapelle.JPG)
 Kaple milosti v Altöttingu.
 
+Den jsem ukončil v "jugendherberge" v Mühldorfu.
+
 Mühldorf - Fischbach
 ---
+
+Dnešní etapa, zejména mezi Garsem am Inn a Wasserburgem a potom za Rosenheimem 
+vedla přes malé vesničky krásnou zemědělskou krajinou. Za návštěvu rozhodně stojí
+centrum [Wasserburgu am Inn](https://cs.wikipedia.org/wiki/Wasserburg_am_Inn), 
+nacházející se na poloostrově vytvořeném meandrujícím Innem.
+
+{:.center-image}
+[![Cesta na Rosenheim](/images/cesta_na_rosenheim_thumbnail.JPG)](/images/cesta_na_rosenheim.JPG)
+Cesta na Rosenheim.
+
+Velkou motivací během cesty představovaly první alpské vrcholky, jejichž obrysy již byly
+jasně vidět na horizontu. Jakmile jsem jich v podvečer dosáhl, zastavil jsem se
+v kempu za vesničkou Fischbach.
+
+{:.center-image}
+[![Brána Alp je již nedaleko](/images/alpska_brana_thumbnail.JPG)](/images/alpska_brana.JPG)
+Brána Alp je již nedaleko.
+
+Fischbach - Weer
+---
+
+První etapa v alpském údolí. Inn zde znovu chvíli tvoří hranici mezi Německem
+a Rakouskem, takže když jsem přejel z jednoho břehu na druhý (z Oberaudorfu do 
+Niederndorfu), dostal jsem se znovu do Rakouska, tentokrát do spolkové země Tyrolsko. 
+[Kufsteinem](https://cs.wikipedia.org/wiki/Kufstein), s pevností nacházející se
+na kopečku u Innu, jsem pouze projel a pokračoval dále.
+
+{:.center-image}
+[![Kaplička sv. Linharta nedaleko Radfeldu](/images/radfeld_kapelle_st_leonhard_thumbnail.JPG)](/images/radfeld_kapelle_st_leonhard.JPG)
+Kaplička sv. Linharta nedaleko Radfeldu.
+
+Kousek před 
+Radfeldem jsem narazil v polích na kapličku sv. Linharta, jež skýtala
+příjemné místo k odpočinku a k doplnění zásob vody. Etapu jsem ukončil v kempu
+ve Weeru.
+
+{:.center-image}
+[![Weer](/images/weer_kostel_thumbnail.JPG)](/images/weer_kostel.JPG)
+Weer.
+
 
