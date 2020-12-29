@@ -97,7 +97,7 @@ Fischbach - Weer
 ---
 
 První etapa v alpském údolí. Inn zde znovu chvíli tvoří hranici mezi Německem
-a Rakouskem, takže když jsem přejel z jednoho břehu na druhý (z Oberaudorfu do 
+a Rakouskem, takže když jsem přejel z jednoho břehu na druhý (z Oberaudorfu do
 Niederndorfu), dostal jsem se znovu do Rakouska, tentokrát do spolkové země Tyrolsko. 
 [Kufsteinem](https://cs.wikipedia.org/wiki/Kufstein), s pevností nacházející se
 na kopečku u Innu, jsem pouze projel a pokračoval dále.
@@ -115,4 +115,36 @@ ve Weeru.
 [![Weer](/images/weer_kostel_thumbnail.JPG)](/images/weer_kostel.JPG)
 Weer.
 
+Weer - Landeck
+---
+Výborně jsem se vyspal, ale probudil jsem se bohužel s vědomím toho, že dnes je neděle 
+a _Lebensmittelmarkt_ bude zavřený. Že dnes bude neděle jsem si uvědomil včera
+až pozdě večer a bylo strašné zjistění, jelikož jsem
+kromě poslední fidorky neměl k jídlu vůbec nic. Vyjel jsem s tím, že se najím v
+Innsbrucku, ale již po několika málo kilometrech jsem si na benzínce koupil
+_Käsesemmel_ a preclík. Provoz na cyklostezce se pomalu zvyšoval, jak jsem
+se přibližoval k Innsbrucku. Nejspíš to bylo i tím, že byla neděle a místní
+vyrazili na denní projížďky. U Hall in
+Tirol jsem přejel na levý břeh Innu a po krátkém úseku v průmyslové oblasti jsem
+se dostal do _Olympisches Dorf_, což -- pokud jsem se to tedy dobře pochopil --
+je paneláková čtvrť na kraji Innsbrucku.
 
+Město se mi moc nelíbilo (možná jsem si po cestě větším městům odvykl), ale i
+tak jsem se rozhodl si projít _Altstadt_. Bylo tam hodně turistů a nejspíš pro
+ně jsem na _Maria-Theresien-Strasse_ objevil otevřený Spar. Nakoupil jsem si
+tam jídlo na den a večer a dal si _Whoppera_ v Burger Kingu u nádraží.
+
+Cyklostezka za Innsbruckem moc pěkná nebyla: jelo se pořád kolem dálnice a po
+cestě přímo na cyklostezce nic zajímavého nebylo, tak si z cesty až do Haimingu
+moc nepamatuji. Za ním se příroda docela změnila, objevily se borovice a
+najednou si člověk připadal víc jako v horách než v úrodném údolí. Nejkrásnější
+část dnešní etapy byl krátký úsek mezi Roppenem a odbočkou na Imst, kde se údolí
+zúžilo a byla tam jen řeka, železniční dráha a cyklostezka (dálnice byla
+naštěstí vedena v tunelu). Já pokračoval na Landeck, ale byl jsem už tou jízdou
+a děsným vedrem hodně vyčerpán, a po příjezdu do města jsem hned jel do kempu. 
+
+V kempu jsem
+si uvařil "risotto s italskými bylinkami", ale bylo mi hned jasné, že jsem si místo
+jednoho balení měl v Innsbrucku koupit alespoň tři. Po večeři jsem se šel
+projít, podívat se na _Schloss Landeck_ a s radlerem jsem si pak vyslechl koncert tyrolské
+dechovky na hlavní "třídě". Usínalo se mi dobře.
