@@ -137,14 +137,25 @@ tam jídlo na den a večer a dal si _Whoppera_ v Burger Kingu u nádraží.
 Cyklostezka za Innsbruckem moc pěkná nebyla: jelo se pořád kolem dálnice a po
 cestě přímo na cyklostezce nic zajímavého nebylo, tak si z cesty až do Haimingu
 moc nepamatuji. Za ním se příroda docela změnila, objevily se borovice a
-najednou si člověk připadal víc jako v horách než v úrodném údolí. Nejkrásnější
+najednou si člověk připadal víc jako v horách než v úrodném údolí.
+
+{:.center-image}
+[![](/images/2015/12/rafting_roppen_thumbnail.JPG)](/images/2015/12/rafting_roppen.JPG)
+Rafting na Innu u Roppenu.
+
+Nejkrásnější
 část dnešní etapy byl krátký úsek mezi Roppenem a odbočkou na Imst, kde se údolí
 zúžilo a byla tam jen řeka, železniční dráha a cyklostezka (dálnice byla
 naštěstí vedena v tunelu). Já pokračoval na Landeck, ale byl jsem už tou jízdou
 a děsným vedrem hodně vyčerpán, a po příjezdu do města jsem hned jel do kempu. 
 
+{:.center-image}
+[![](/images/2015/12/louky_landeck_thumbnail.JPG)](/images/2015/12/louky_landeck.JPG)
+Luka před Landeckem.
+
 V kempu jsem
 si uvařil "risotto s italskými bylinkami", ale bylo mi hned jasné, že jsem si místo
 jednoho balení měl v Innsbrucku koupit alespoň tři. Po večeři jsem se šel
-projít, podívat se na _Schloss Landeck_ a s radlerem jsem si pak vyslechl koncert tyrolské
+projít, podívat se na [_Schloss Landeck_](https://de.wikipedia.org/wiki/Schloss_Landeck) 
+a s radlerem jsem si pak vyslechl koncert tyrolské
 dechovky na hlavní "třídě". Usínalo se mi dobře.
