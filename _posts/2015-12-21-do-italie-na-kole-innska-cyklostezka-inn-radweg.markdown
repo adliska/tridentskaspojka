@@ -208,3 +208,10 @@ tím, než začala silná bouře.
 {:.center-image}
 [![](/images/2015/12/pfunds_thumbnail.JPG)](/images/2015/12/pfunds.JPG)
 Příjezd do Pfundsu.
+
+
+## Odkazy
+- Předchozí díl: [Do Itálie na kole: Šumava]({% post_url
+2015-12-20-do-italie-na-kole-sumava %})
+- Následující díl: [Do Itálie na kole: Reschenpass, Jižní Tyrolsko, Trentino]({% post_url
+2020-12-30-do-italie-na-kole-reschenpass-sudtirol-trentino %})

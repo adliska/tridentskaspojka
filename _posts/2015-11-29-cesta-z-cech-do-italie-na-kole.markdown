@@ -131,3 +131,7 @@ v kempu postavil stan a tím pro mě skončil druhý den cesty.
  {:.center-image}
 [![Údolí Kaplického potoka](/images/udoli_kaplickeho_potoka_thumbnail.JPG)](/images/udoli_kaplickeho_potoka.JPG)
 Údolí Kaplického potoka.
+
+## Odkazy
+- Následující díl: [Do Itálie na kole: Šumava]({% post_url
+  2015-12-20-do-italie-na-kole-sumava %})

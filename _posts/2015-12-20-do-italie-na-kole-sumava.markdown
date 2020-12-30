@@ -67,3 +67,9 @@ Střed Pasova s cibulovitými báněmi dómu sv. Štěpána.
 {:.center-image}
 [![Portál Gymnasia Leopoldinum](/images/pasov_leopoldinum_portal_thumbnail.JPG)](/images/pasov_leopoldinum_portal.JPG)
 Portál [Gymnasia Leopoldinum](https://de.wikipedia.org/wiki/Gymnasium_Leopoldinum_(Passau))
+
+## Odkazy
+- Předchozí díl: [Cesta do Rovereta, aneb z Čech do Itálie na
+  kole]({% post_url 2015-11-29-cesta-z-cech-do-italie-na-kole %})
+- Následující díl: [Do Itálie na kole: Innská cyklostezka]({% post_url
+  2015-12-21-do-italie-na-kole-innska-cyklostezka-inn-radweg %})
