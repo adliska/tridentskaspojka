@@ -159,3 +159,52 @@ jednoho balení měl v Innsbrucku koupit alespoň tři. Po večeři jsem se šel
 projít, podívat se na [_Schloss Landeck_](https://de.wikipedia.org/wiki/Schloss_Landeck) 
 a s radlerem jsem si pak vyslechl koncert tyrolské
 dechovky na hlavní "třídě". Usínalo se mi dobře.
+
+Landeck - Pfunds
+---
+Jelikož jsem si stoupání na Reschenpassu a do Itálie naplánoval až na další den
+(četl jsem někde, že je na té silnici docela hustý provoz a vyplatí se ji
+vyšlapat brzo ráno), dnes mě čekala docela krátká etapa a nemusel jsem
+vyjíždět moc brzo. Ráno jsem si
+zašel do potravin koupit snídani a poprvé po cestě jsem si udělal ovesnou kaši.
+Ta bodla, i když mi chyběly rozinky. Poté jsem se chtěl podívat do informačního
+centra, ale tam, kde podle mapy mělo být, byla jen mapa regionu. Vrátil jsme se
+do kempu, sbalil stan a vyjel pomalým tempem. Bylo po desáté a již pořádné
+vedro.
+
+{:.center-image}
+[![](/images/2015/12/stoupani_za_landeckem_thumbnail.JPG)](/images/2015/12/stoupani_za_landeckem.JPG)
+Stoupání za Landeckem.
+
+V Landecku se do Innu vlévá
+[Sanna](https://cs.wikipedia.org/wiki/Sanna_(p%C5%99%C3%ADtok_Innu)) a Inn
+samotný do Landecku přitéká z jihu, z mnohem užšího údolí, kterým díkybohu nevede
+dálnice. Cesta tímto údolím je pěkná a řeka jím teče rychle. 
+
+{:.center-image}
+[![](/images/2015/12/most_urgen_thumbnail.JPG)](/images/2015/12/most_urgen.JPG)
+
+Cestou byl pomník
+oslavující [vítězství Tyrolska nad Bavory v roce
+1703](https://en.wikipedia.org/wiki/Bavarian_Rummel), které se odehrálo
+v tomto údolí. V
+[Prutzu](https://cs.wikipedia.org/wiki/Prutz) jsem si natočil do lahve z pramene
+perlivou vodu.
+
+Čast z Prutzu do Pfundsu byla nádherná - krásné zelené údolí, majestátní hory
+kolem. Ale zároveň bylo velké vedro a tak jsem byl rád, když jsem dojel do
+Pfundsu, kde jsem se chtěl ubytovat. Na návsi jsem si všiml ukazatele na
+_Jugendherberge_, ale jak se ukázalo, hostel to nebyl, spíš to byl jen trik, jak
+dostat lidi do hodně low-costového pensionu. Nicméně po chvilce dohadování jsem
+se domluvil s vlastnicí, že přenocuji _ohne Frühstück_ za 20 euro, což mi
+připadalo v pohodě. Můj pokoj byl aspoň příjemně chladný, tak jsem v něm chvíli
+pobyl, než jsem vyrazil do infocentra, kde jsem si vzal mapku římské cesty 
+[Via Claudia Augusta](https://cs.wikipedia.org/wiki/Via_Claudia_Augusta), jejíž 
+trasu jsem již poslední dva dny kopíroval. Vydal jsem se pak na procházku
+kaňonem, který byl hned za městěčkem a ve kterém teplota výrazně spadla. Začalo
+se nicméně rychle zatahovat a zpátky do pensionu jsem se dostal chvilku před
+tím, než začala silná bouře.
+
+{:.center-image}
+[![](/images/2015/12/pfunds_thumbnail.JPG)](/images/2015/12/pfunds.JPG)
+Příjezd do Pfundsu.
