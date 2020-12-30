@@ -25,8 +25,11 @@ Nakonec jsem se tedy na základě všech těchto zdrojů rozhodl pro
 trasu Střední Čechy - Šumava - Pasov - Innská cyklostezka až k rakouským
 hranicím se Švýcarskem -
 [Reschenský průsmyk](https://cs.wikipedia.org/wiki/Reschensk%C3%BD_pr%C5%AFsmyk)
-- [Jižní Tyroly](https://cs.wikipedia.org/wiki/Ji%C5%BEn%C3%AD_Tyrolsko) 
-- [Trento](https://cs.wikipedia.org/wiki/Trento) - Rovereto. 
+-
+[Jižní Tyroly](https://cs.wikipedia.org/wiki/Ji%C5%BEn%C3%AD_Tyrolsko) 
+-
+[Trento](https://cs.wikipedia.org/wiki/Trento) - Rovereto. 
+
 Cesta to byla nádherná, celkem asi 800km, většinou po okreskách, říčních náspech
 a cyklostezkách. Mohu ji doporučit každému, kdo se chystá tímto směrem.
 Spal jsem většinou v kempech pod stanem, až na několik nocí v penzionech.
